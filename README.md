@@ -6,4 +6,4 @@
 
 Technology enthusiast and Gym Lover 🏋️🙋‍♂️
 
-Programmer at [eDiaz Solutions](http://ediaz.tech) and learning **JavaScript, ReactJS, React Native, NodeJS, TypeScript**;
+Software Developer at [eDiaz Solutions](http://ediaz.tech) and learning **JavaScript, ReactJS, React Native, NodeJS, TypeScript**;
